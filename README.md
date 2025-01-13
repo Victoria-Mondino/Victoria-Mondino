@@ -22,7 +22,7 @@
 -🧑‍💻 Building projects in WordPress, JavaScript, React.js.<br>
 -✍ Writing and sharing insights on design and development.<br>
 -❤ Passionate about contributing to open-source projects and the tech community.<br>
--💻 Check out my [Portfolio](https://dev-portafoliovictoria.pantheonsite.io/) for a glimpse into my work!
+-💻 Check out my [Portfolio](https://tan-salamander-682099.hostingersite.com/) for a glimpse into my work!
 
 <!--End Intro-->
 
