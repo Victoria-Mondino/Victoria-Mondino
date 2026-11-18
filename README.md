@@ -161,7 +161,7 @@ I specialize in WordPress development, PHP, JavaScript, responsive interfaces, a
 </p>
 
 <p align="center">
-  <a href="https://cimbra-studio-ten.vercel.app/">Portfolio</a> ·
+  <a href="https://portfolio-8eyn.vercel.app/proyectos.html">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/victoria-mondino-b78944290/">LinkedIn</a> ·
   <a href="mailto:vicki.mondino@hotmail.com">Contact</a>
 </p>
